@@ -1,14 +1,14 @@
 {
-    "name": "RocketChat",
-    "description": "The Ultimate Open Source WebChat Platform",
+    "name": "MetodexChat",
+    "description": "Metodex.Chat — Corporate Messenger",
     "launch_path": "/",
     "icons": {
         "192": "/assets/favicon_192.png",
         "512": "/assets/favicon_512.png"
     },
     "developer": {
-        "name": "Rocket.Chat",
-        "url": "https://rocket.chat/"
+        "name": "Metodex",
+        "url": "https://metodex.chat/"
     },
     "fullscreen": "true",
     "chrome": {

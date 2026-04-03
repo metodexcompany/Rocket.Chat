@@ -4,7 +4,7 @@ import { settingsRegistry } from '../../app/settings/server';
 
 export const createFederationSettings = () =>
 	settingsRegistry.addGroup('Federation', async function () {
-		await this.section('Rocket.Chat Federation', async function () {
+		await this.section('Metodex.Chat Federation', async function () {
 			await this.add('FEDERATION_Enabled', false, {
 				type: 'boolean',
 				readonly: true,
